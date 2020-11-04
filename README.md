@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Rene Sena! :point_right: Welcome :smiley:👋:dizzy:
+
+### Contact me
+[![Blog Badge](https://img.shields.io/badge/Blog-renesena.com.br.com-black)](https://renesena.com.br/blog)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rene-sena)](https://br.linkedin.com/in/rene-sena)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sleeperU_U)](https://twitter.com/sleeperU_U)
+
 
 <!--
 **ReneSena/ReneSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
