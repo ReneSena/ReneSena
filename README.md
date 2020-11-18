@@ -2,6 +2,11 @@
 
 Me chamo Rene, trabalho na área de tecnologia desde 2018. Atualmente atuo como Desenvolvedor Front-end na [Docket](https://docket.com.br/). :smile: 
 
+Meus estudos hoje estão focados em: 
+- Inglês 
+- Javascript / React / Gatsby
+- Design UI / UX 
+
 #### Onde me encontrar?
 [![Blog Badge](https://img.shields.io/badge/Blog-renesena.com.br-black)](https://renesena.com.br/blog)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rene-sena)](https://br.linkedin.com/in/rene-sena)
