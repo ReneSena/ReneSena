@@ -1,18 +1,20 @@
 <img src="background_profile.png">
 
-My name's Rene, to work in tech since of 2018. Current to act how Front-end Developer at [Docket](https://docket.com.br).
+#### My name's Rene, to work in tech since of 2018. Current to act how Front-end Developer at [Docket](https://docket.com.br).
+
+<hr />
 
 #### :books: My focus of studies current:
 
-- English
-- Javascript / React / Gatsby
-- Design UI / UX
+- English :us: 
+- Javascript / React / Gatsby :hammer_and_pick:
+- Design UI / UX :art:
 
 #### :palm_tree: In free time I like:
 
 - Cook :bread:
 - Read books :book:
-- Play games :joystick:
+- Play games :video_game:
 - Coding projects personal :computer:
 - I like to go the park relax :deciduous_tree:
 - Study about development personal :recycle:
