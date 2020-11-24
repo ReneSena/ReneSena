@@ -1,4 +1,4 @@
-### Olá! :point_right: Seja bem-vindo!! :smiley:👋:dizzy:
+<img src="background_profile.png">
 
 Me chamo Rene, trabalho na área de tecnologia desde 2018. Atualmente atuo como Desenvolvedor Front-end na [Docket](https://docket.com.br/). :smile: 
 
