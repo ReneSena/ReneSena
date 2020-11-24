@@ -1,6 +1,6 @@
 <img src="background_profile.png">
 
-#### My name's Rene, to work in tech since of 2018. Current to act how Front-end Developer at [Docket](https://docket.com.br).
+### My name's Rene, to work in tech since of 2018. Current to act how Front-end Developer at [Docket](https://docket.com.br).
 
 <hr />
 
