@@ -16,6 +16,7 @@
 - Read books :book:
 - Play games :video_game:
 - Coding projects personal :computer:
+- Write articles on my blog :pen:
 - I like to go the park relax :deciduous_tree:
 - Study about development personal :recycle:
 - Watch series, movies, podcast and to listen music :tv: :headphones:
