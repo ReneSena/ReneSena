@@ -1,6 +1,6 @@
 <img src="background_profile.png">
 
-### My name's Rene, I have worked in tech since 2018. Currently I work as a Front-end Developer at [Docket](https://docket.com.br).
+### My name's Rene, I have worked in tech since 2018. Currently I work as a Front-end Developer at [Docket Brasil](https://docket.com.br).
 
 <hr />
 
