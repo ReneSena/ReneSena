@@ -1,13 +1,13 @@
 <img src="background_profile.png">
 
-### My name's Rene, I have worked in tech since 2018. Currently I work as a Front-end Developer at [Docket Brasil](https://docket.com.br).
+#### My name's Rene Sena 🤙, I have been working how a Front-end Developer with focusing on impacting people. 😄
 
 <hr />
 
 #### :books: Currently studying:
 
 - English :us: 
-- Javascript / React / Gatsby :hammer_and_pick:
+- Javascript / React / Nextjs :hammer_and_pick:
 - Design UI / UX :art:
 - Storybook :book:
 
