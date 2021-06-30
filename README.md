@@ -1,13 +1,13 @@
 <img src="background_profile.png">
 
-#### My name's Rene Sena 🤙, I have been working how a Front-end Developer with focusing on impacting people. 😄
+#### My name's Rene Sena 🤙, I have been working how a Front-end Developer with focus on impacting people. 😄
 
 <hr />
 
 #### :books: Currently studying:
 
 - English :us: 
-- Javascript / React / Nextjs :hammer_and_pick:
+- TypeScript / React / Nextjs :hammer_and_pick:
 - Design UI / UX :art:
 - Storybook :book:
 
