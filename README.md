@@ -20,7 +20,7 @@
 - Write articles on my blog :pen:
 - I like to go the park relax :deciduous_tree:
 - Study about development personal :recycle:
-- Watch series, movies, podcast and to listen music :tv: :headphones:
+- Watch series, movies and listen music/podcast :tv: :headphones:
 
 #### :triangular_flag_on_post: You can learn more about me at?
 [![Blog Badge](https://img.shields.io/badge/Blog-renesena.com.br-black)](https://renesena.com.br/blog)
