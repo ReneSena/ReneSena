@@ -7,11 +7,11 @@
 #### :books: Currently studying:
 
 - English :us: 
-- TypeScript / React / Nextjs :hammer_and_pick:
+- React / Nextjs :hammer_and_pick:
 - Design UI / UX :art:
 - Storybook :book:
 
-#### :palm_tree: In free time I like:
+#### :palm_tree: In my free time I like:
 
 - Cook :bread:
 - Read books :book:
