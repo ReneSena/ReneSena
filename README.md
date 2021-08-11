@@ -7,9 +7,9 @@
 #### :books: Currently studying:
 
 - English :us: 
-- React / Nextjs :hammer_and_pick:
-- Design UI / UX :art:
-- Storybook :book:
+- React
+- Typescript
+- Node
 
 #### :palm_tree: In my free time I like:
 
