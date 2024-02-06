@@ -1,8 +1,6 @@
-<img src="background_profile.png">
+## Hi There! 🚀
 
-#### My name's Rene Sena 🤙 I'm 26 years old. I have been working how a Front-end Developer with focus on impacting people. 😄
-
-<hr />
+#### My name's Rene Sena I'm 28 years old. I have been working as a FrontEnd Developer with a focus on impacting people. 😄
 
 #### :books: Currently studying:
 
