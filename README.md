@@ -1,23 +1,6 @@
 ## Hi There! 🚀
 
-#### My name's Rene Sena I'm 28 years old. I have been working as a FrontEnd Developer with a focus on impacting people. 😄
-
-#### :books: Currently studying:
-
-- English :us: 
-- React
-- Typescript
-- Node
-
-#### :palm_tree: In my free time I like:
-
-- Cook :bread:
-- Read books :book:
-- Play games :video_game:
-- I like to go the park relax :deciduous_tree:
-- I like to spend time with family and friends
-- Study about development personal :recycle:
-- Watch series, movies and listen music/podcast :tv: :headphones:
+#### My name's Rene Sena I'm 28 years old. I have been working as a FrontEnd Developer with a focus on impacting people. I like sharing knowledge about things that I have been learning during my career. 😄
 
 #### :triangular_flag_on_post: You can find me in:
 [![Blog Badge](https://img.shields.io/badge/Blog-renesena.com.br-black)](https://renesena.com.br/blog)
