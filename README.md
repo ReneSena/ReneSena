@@ -1,6 +1,6 @@
 ## Hi There! 🚀
 
-#### My name's Rene Sena I'm 29 years old. I have been working as a FrontEnd Developer with a focus on impacting people. I like sharing knowledge about things that I have been learning during my career. 😄
+#### My name's Rene Sena I'm 31 years old. I have been working as a FrontEnd Developer with a focus on impacting people. I like sharing knowledge about things that I have been learning during my career. 😄
 
 #### :triangular_flag_on_post: You can find me in:
 [![Blog Badge](https://img.shields.io/badge/Blog-renesena.com.br-black)](https://renesena.com.br/blog)
